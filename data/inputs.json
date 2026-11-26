@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-03-06",
+  "base": {
+    "opening_cash": 1000000.0,
+    "revolver_limit": 1600000.0,
+    "revolver_outstanding": 500000.0,
+    "revolver_rate": 0.0825,
+    "min_cash": 750000.0,
+    "min_liquidity": 1000000.0
+  },
+  "stress": {
+    "gc_id": "G09",
+    "extra_weeks": 4,
+    "opening_cash": 250000.0
+  }
+}

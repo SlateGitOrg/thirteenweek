@@ -1,0 +1,505 @@
+week_ending,crew,amount
+2024-01-26,Crew A - Commercial,89816.76
+2024-01-26,Crew B - Tenant Improvement,76716.83
+2024-01-26,Crew C - Service,51603.42
+2024-01-26,Crew D - Controls,50880.75
+2024-02-02,Crew A - Commercial,91670.96
+2024-02-02,Crew B - Tenant Improvement,76157.26
+2024-02-02,Crew C - Service,51071.2
+2024-02-02,Crew D - Controls,45817.65
+2024-02-09,Crew A - Commercial,86300.45
+2024-02-09,Crew B - Tenant Improvement,73946.48
+2024-02-09,Crew C - Service,50207.52
+2024-02-09,Crew D - Controls,47280.97
+2024-02-16,Crew A - Commercial,87277.94
+2024-02-16,Crew B - Tenant Improvement,73410.89
+2024-02-16,Crew C - Service,53000.38
+2024-02-16,Crew D - Controls,46712.66
+2024-02-23,Crew A - Commercial,86265.85
+2024-02-23,Crew B - Tenant Improvement,77447.42
+2024-02-23,Crew C - Service,53976.94
+2024-02-23,Crew D - Controls,45677.49
+2024-03-01,Crew A - Commercial,92157.26
+2024-03-01,Crew B - Tenant Improvement,76160.35
+2024-03-01,Crew C - Service,53640.27
+2024-03-01,Crew D - Controls,49638.47
+2024-03-08,Crew A - Commercial,91550.1
+2024-03-08,Crew B - Tenant Improvement,80244.56
+2024-03-08,Crew C - Service,56689.17
+2024-03-08,Crew D - Controls,49298.04
+2024-03-15,Crew A - Commercial,91113.5
+2024-03-15,Crew B - Tenant Improvement,71830.66
+2024-03-15,Crew C - Service,55721.55
+2024-03-15,Crew D - Controls,46114.24
+2024-03-22,Crew A - Commercial,84590.33
+2024-03-22,Crew B - Tenant Improvement,71380.8
+2024-03-22,Crew C - Service,53109.29
+2024-03-22,Crew D - Controls,44312.66
+2024-03-29,Crew A - Commercial,90210.27
+2024-03-29,Crew B - Tenant Improvement,79016.93
+2024-03-29,Crew C - Service,56380.75
+2024-03-29,Crew D - Controls,45149.66
+2024-04-05,Crew A - Commercial,89986.5
+2024-04-05,Crew B - Tenant Improvement,80113.65
+2024-04-05,Crew C - Service,49990.78
+2024-04-05,Crew D - Controls,45645.07
+2024-04-12,Crew A - Commercial,84730.28
+2024-04-12,Crew B - Tenant Improvement,75537.73
+2024-04-12,Crew C - Service,51167.51
+2024-04-12,Crew D - Controls,48298.54
+2024-04-19,Crew A - Commercial,85802.84
+2024-04-19,Crew B - Tenant Improvement,77886.14
+2024-04-19,Crew C - Service,54270.64
+2024-04-19,Crew D - Controls,49430.77
+2024-04-26,Crew A - Commercial,84428.48
+2024-04-26,Crew B - Tenant Improvement,78517.96
+2024-04-26,Crew C - Service,56027.26
+2024-04-26,Crew D - Controls,49704.71
+2024-05-03,Crew A - Commercial,81923.78
+2024-05-03,Crew B - Tenant Improvement,81425.19
+2024-05-03,Crew C - Service,54664.1
+2024-05-03,Crew D - Controls,46251.41
+2024-05-10,Crew A - Commercial,87072.64
+2024-05-10,Crew B - Tenant Improvement,76214.03
+2024-05-10,Crew C - Service,54153.53
+2024-05-10,Crew D - Controls,46064.32
+2024-05-17,Crew A - Commercial,84690.7
+2024-05-17,Crew B - Tenant Improvement,74341.23
+2024-05-17,Crew C - Service,56427.19
+2024-05-17,Crew D - Controls,47519.57
+2024-05-24,Crew A - Commercial,81503.93
+2024-05-24,Crew B - Tenant Improvement,75418.87
+2024-05-24,Crew C - Service,51419.77
+2024-05-24,Crew D - Controls,44255.33
+2024-05-31,Crew A - Commercial,94716.58
+2024-05-31,Crew B - Tenant Improvement,73491.64
+2024-05-31,Crew C - Service,54323.97
+2024-05-31,Crew D - Controls,46910.97
+2024-06-07,Crew A - Commercial,81711.97
+2024-06-07,Crew B - Tenant Improvement,80874.75
+2024-06-07,Crew C - Service,57764.08
+2024-06-07,Crew D - Controls,45591.8
+2024-06-14,Crew A - Commercial,86845.4
+2024-06-14,Crew B - Tenant Improvement,74463.47
+2024-06-14,Crew C - Service,51124.75
+2024-06-14,Crew D - Controls,49241.55
+2024-06-21,Crew A - Commercial,91970.5
+2024-06-21,Crew B - Tenant Improvement,79157.93
+2024-06-21,Crew C - Service,55514.18
+2024-06-21,Crew D - Controls,44294.33
+2024-06-28,Crew A - Commercial,84192.73
+2024-06-28,Crew B - Tenant Improvement,76177.55
+2024-06-28,Crew C - Service,55752.54
+2024-06-28,Crew D - Controls,47127.73
+2024-07-05,Crew A - Commercial,87285.68
+2024-07-05,Crew B - Tenant Improvement,80143.14
+2024-07-05,Crew C - Service,49883.45
+2024-07-05,Crew D - Controls,46222.76
+2024-07-12,Crew A - Commercial,85042.29
+2024-07-12,Crew B - Tenant Improvement,81992.24
+2024-07-12,Crew C - Service,51645.91
+2024-07-12,Crew D - Controls,44521.83
+2024-07-19,Crew A - Commercial,86823.82
+2024-07-19,Crew B - Tenant Improvement,77818.27
+2024-07-19,Crew C - Service,51005.53
+2024-07-19,Crew D - Controls,50608.86
+2024-07-26,Crew A - Commercial,83726.1
+2024-07-26,Crew B - Tenant Improvement,78484.04
+2024-07-26,Crew C - Service,51078.02
+2024-07-26,Crew D - Controls,50931.65
+2024-08-02,Crew A - Commercial,83794.59
+2024-08-02,Crew B - Tenant Improvement,78813.32
+2024-08-02,Crew C - Service,56926.32
+2024-08-02,Crew D - Controls,46117.99
+2024-08-09,Crew A - Commercial,82266.99
+2024-08-09,Crew B - Tenant Improvement,77047.48
+2024-08-09,Crew C - Service,53991.54
+2024-08-09,Crew D - Controls,47841.18
+2024-08-16,Crew A - Commercial,91961.19
+2024-08-16,Crew B - Tenant Improvement,75551.41
+2024-08-16,Crew C - Service,53974.35
+2024-08-16,Crew D - Controls,47902.19
+2024-08-23,Crew A - Commercial,87360.6
+2024-08-23,Crew B - Tenant Improvement,74853.65
+2024-08-23,Crew C - Service,51070.21
+2024-08-23,Crew D - Controls,46427.98
+2024-08-30,Crew A - Commercial,84689.67
+2024-08-30,Crew B - Tenant Improvement,72937.87
+2024-08-30,Crew C - Service,56443.61
+2024-08-30,Crew D - Controls,45035.81
+2024-09-06,Crew A - Commercial,83852.32
+2024-09-06,Crew B - Tenant Improvement,76321.19
+2024-09-06,Crew C - Service,52380.36
+2024-09-06,Crew D - Controls,46004.45
+2024-09-13,Crew A - Commercial,86217.23
+2024-09-13,Crew B - Tenant Improvement,76024.58
+2024-09-13,Crew C - Service,55506.26
+2024-09-13,Crew D - Controls,51626.67
+2024-09-20,Crew A - Commercial,92965.15
+2024-09-20,Crew B - Tenant Improvement,75148.71
+2024-09-20,Crew C - Service,53582.14
+2024-09-20,Crew D - Controls,47352.68
+2024-09-27,Crew A - Commercial,84324.19
+2024-09-27,Crew B - Tenant Improvement,81493.47
+2024-09-27,Crew C - Service,50273.22
+2024-09-27,Crew D - Controls,45734.0
+2024-10-04,Crew A - Commercial,90280.69
+2024-10-04,Crew B - Tenant Improvement,77089.08
+2024-10-04,Crew C - Service,52087.51
+2024-10-04,Crew D - Controls,51355.81
+2024-10-11,Crew A - Commercial,86725.13
+2024-10-11,Crew B - Tenant Improvement,77170.44
+2024-10-11,Crew C - Service,50466.47
+2024-10-11,Crew D - Controls,51002.03
+2024-10-18,Crew A - Commercial,82410.29
+2024-10-18,Crew B - Tenant Improvement,74711.61
+2024-10-18,Crew C - Service,57331.36
+2024-10-18,Crew D - Controls,51417.55
+2024-10-25,Crew A - Commercial,93687.98
+2024-10-25,Crew B - Tenant Improvement,79983.53
+2024-10-25,Crew C - Service,51695.72
+2024-10-25,Crew D - Controls,44404.64
+2024-11-01,Crew A - Commercial,87321.48
+2024-11-01,Crew B - Tenant Improvement,70688.26
+2024-11-01,Crew C - Service,57979.02
+2024-11-01,Crew D - Controls,44222.88
+2024-11-08,Crew A - Commercial,85542.77
+2024-11-08,Crew B - Tenant Improvement,72392.03
+2024-11-08,Crew C - Service,49798.29
+2024-11-08,Crew D - Controls,47992.92
+2024-11-15,Crew A - Commercial,82030.78
+2024-11-15,Crew B - Tenant Improvement,80863.26
+2024-11-15,Crew C - Service,55621.11
+2024-11-15,Crew D - Controls,47001.61
+2024-11-22,Crew A - Commercial,92809.22
+2024-11-22,Crew B - Tenant Improvement,79609.79
+2024-11-22,Crew C - Service,52500.45
+2024-11-22,Crew D - Controls,50666.71
+2024-11-29,Crew A - Commercial,94045.92
+2024-11-29,Crew B - Tenant Improvement,77457.88
+2024-11-29,Crew C - Service,52719.41
+2024-11-29,Crew D - Controls,51076.5
+2024-12-06,Crew A - Commercial,94235.56
+2024-12-06,Crew B - Tenant Improvement,74142.97
+2024-12-06,Crew C - Service,50425.56
+2024-12-06,Crew D - Controls,50824.78
+2024-12-13,Crew A - Commercial,90320.29
+2024-12-13,Crew B - Tenant Improvement,72741.09
+2024-12-13,Crew C - Service,54578.25
+2024-12-13,Crew D - Controls,46526.93
+2024-12-20,Crew A - Commercial,93902.17
+2024-12-20,Crew B - Tenant Improvement,74080.11
+2024-12-20,Crew C - Service,51375.67
+2024-12-20,Crew D - Controls,44491.85
+2024-12-27,Crew A - Commercial,85782.64
+2024-12-27,Crew B - Tenant Improvement,81951.68
+2024-12-27,Crew C - Service,51566.46
+2024-12-27,Crew D - Controls,47677.83
+2025-01-03,Crew A - Commercial,94647.26
+2025-01-03,Crew B - Tenant Improvement,70001.64
+2025-01-03,Crew C - Service,52229.35
+2025-01-03,Crew D - Controls,50466.69
+2025-01-10,Crew A - Commercial,82307.9
+2025-01-10,Crew B - Tenant Improvement,81208.08
+2025-01-10,Crew C - Service,56890.58
+2025-01-10,Crew D - Controls,45258.64
+2025-01-17,Crew A - Commercial,89300.23
+2025-01-17,Crew B - Tenant Improvement,76674.86
+2025-01-17,Crew C - Service,55673.51
+2025-01-17,Crew D - Controls,46516.53
+2025-01-24,Crew A - Commercial,86368.9
+2025-01-24,Crew B - Tenant Improvement,72848.14
+2025-01-24,Crew C - Service,52202.01
+2025-01-24,Crew D - Controls,45509.6
+2025-01-31,Crew A - Commercial,93693.99
+2025-01-31,Crew B - Tenant Improvement,80711.08
+2025-01-31,Crew C - Service,52790.54
+2025-01-31,Crew D - Controls,49483.91
+2025-02-07,Crew A - Commercial,87863.08
+2025-02-07,Crew B - Tenant Improvement,73334.32
+2025-02-07,Crew C - Service,52700.58
+2025-02-07,Crew D - Controls,51572.4
+2025-02-14,Crew A - Commercial,85767.78
+2025-02-14,Crew B - Tenant Improvement,76956.58
+2025-02-14,Crew C - Service,57845.69
+2025-02-14,Crew D - Controls,46445.52
+2025-02-21,Crew A - Commercial,92349.88
+2025-02-21,Crew B - Tenant Improvement,71307.22
+2025-02-21,Crew C - Service,56015.98
+2025-02-21,Crew D - Controls,50355.36
+2025-02-28,Crew A - Commercial,92751.21
+2025-02-28,Crew B - Tenant Improvement,81776.64
+2025-02-28,Crew C - Service,55822.51
+2025-02-28,Crew D - Controls,51664.98
+2025-03-07,Crew A - Commercial,84879.21
+2025-03-07,Crew B - Tenant Improvement,76262.18
+2025-03-07,Crew C - Service,51529.6
+2025-03-07,Crew D - Controls,44801.5
+2025-03-14,Crew A - Commercial,87140.22
+2025-03-14,Crew B - Tenant Improvement,78671.31
+2025-03-14,Crew C - Service,56405.78
+2025-03-14,Crew D - Controls,44290.47
+2025-03-21,Crew A - Commercial,94226.44
+2025-03-21,Crew B - Tenant Improvement,72926.36
+2025-03-21,Crew C - Service,52204.61
+2025-03-21,Crew D - Controls,50552.92
+2025-03-28,Crew A - Commercial,93550.55
+2025-03-28,Crew B - Tenant Improvement,78875.07
+2025-03-28,Crew C - Service,52555.54
+2025-03-28,Crew D - Controls,47714.63
+2025-04-04,Crew A - Commercial,92711.24
+2025-04-04,Crew B - Tenant Improvement,74264.87
+2025-04-04,Crew C - Service,56637.84
+2025-04-04,Crew D - Controls,50165.83
+2025-04-11,Crew A - Commercial,87558.89
+2025-04-11,Crew B - Tenant Improvement,80822.11
+2025-04-11,Crew C - Service,53002.25
+2025-04-11,Crew D - Controls,49919.35
+2025-04-18,Crew A - Commercial,89967.66
+2025-04-18,Crew B - Tenant Improvement,73948.01
+2025-04-18,Crew C - Service,54274.61
+2025-04-18,Crew D - Controls,48814.39
+2025-04-25,Crew A - Commercial,88518.51
+2025-04-25,Crew B - Tenant Improvement,71266.34
+2025-04-25,Crew C - Service,58246.13
+2025-04-25,Crew D - Controls,51583.52
+2025-05-02,Crew A - Commercial,81487.64
+2025-05-02,Crew B - Tenant Improvement,81402.44
+2025-05-02,Crew C - Service,54272.06
+2025-05-02,Crew D - Controls,45125.41
+2025-05-09,Crew A - Commercial,92513.61
+2025-05-09,Crew B - Tenant Improvement,75184.86
+2025-05-09,Crew C - Service,55841.97
+2025-05-09,Crew D - Controls,50513.08
+2025-05-16,Crew A - Commercial,88535.6
+2025-05-16,Crew B - Tenant Improvement,70523.93
+2025-05-16,Crew C - Service,56786.15
+2025-05-16,Crew D - Controls,49490.21
+2025-05-23,Crew A - Commercial,93774.79
+2025-05-23,Crew B - Tenant Improvement,73204.87
+2025-05-23,Crew C - Service,56463.88
+2025-05-23,Crew D - Controls,50865.54
+2025-05-30,Crew A - Commercial,85959.12
+2025-05-30,Crew B - Tenant Improvement,74907.89
+2025-05-30,Crew C - Service,52565.65
+2025-05-30,Crew D - Controls,44203.99
+2025-06-06,Crew A - Commercial,84220.33
+2025-06-06,Crew B - Tenant Improvement,73951.48
+2025-06-06,Crew C - Service,50616.61
+2025-06-06,Crew D - Controls,50039.47
+2025-06-13,Crew A - Commercial,86971.49
+2025-06-13,Crew B - Tenant Improvement,76829.49
+2025-06-13,Crew C - Service,52139.0
+2025-06-13,Crew D - Controls,46927.47
+2025-06-20,Crew A - Commercial,91567.65
+2025-06-20,Crew B - Tenant Improvement,75632.99
+2025-06-20,Crew C - Service,54833.95
+2025-06-20,Crew D - Controls,47406.19
+2025-06-27,Crew A - Commercial,88803.05
+2025-06-27,Crew B - Tenant Improvement,80831.88
+2025-06-27,Crew C - Service,51990.35
+2025-06-27,Crew D - Controls,48146.4
+2025-07-04,Crew A - Commercial,90636.14
+2025-07-04,Crew B - Tenant Improvement,70975.36
+2025-07-04,Crew C - Service,57991.75
+2025-07-04,Crew D - Controls,47990.46
+2025-07-11,Crew A - Commercial,84414.35
+2025-07-11,Crew B - Tenant Improvement,79166.84
+2025-07-11,Crew C - Service,56726.62
+2025-07-11,Crew D - Controls,49003.16
+2025-07-18,Crew A - Commercial,93859.57
+2025-07-18,Crew B - Tenant Improvement,71001.15
+2025-07-18,Crew C - Service,54238.45
+2025-07-18,Crew D - Controls,49865.4
+2025-07-25,Crew A - Commercial,93868.8
+2025-07-25,Crew B - Tenant Improvement,77719.99
+2025-07-25,Crew C - Service,54883.97
+2025-07-25,Crew D - Controls,47141.59
+2025-08-01,Crew A - Commercial,89008.27
+2025-08-01,Crew B - Tenant Improvement,76666.33
+2025-08-01,Crew C - Service,57499.42
+2025-08-01,Crew D - Controls,50512.14
+2025-08-08,Crew A - Commercial,91339.71
+2025-08-08,Crew B - Tenant Improvement,81153.22
+2025-08-08,Crew C - Service,50251.64
+2025-08-08,Crew D - Controls,50070.66
+2025-08-15,Crew A - Commercial,87487.72
+2025-08-15,Crew B - Tenant Improvement,79061.95
+2025-08-15,Crew C - Service,52238.97
+2025-08-15,Crew D - Controls,47749.16
+2025-08-22,Crew A - Commercial,92570.24
+2025-08-22,Crew B - Tenant Improvement,70347.79
+2025-08-22,Crew C - Service,52195.33
+2025-08-22,Crew D - Controls,47911.39
+2025-08-29,Crew A - Commercial,92949.15
+2025-08-29,Crew B - Tenant Improvement,73203.6
+2025-08-29,Crew C - Service,56791.36
+2025-08-29,Crew D - Controls,46038.1
+2025-09-05,Crew A - Commercial,85228.37
+2025-09-05,Crew B - Tenant Improvement,76654.43
+2025-09-05,Crew C - Service,55329.74
+2025-09-05,Crew D - Controls,50918.94
+2025-09-12,Crew A - Commercial,93342.9
+2025-09-12,Crew B - Tenant Improvement,72961.97
+2025-09-12,Crew C - Service,56122.0
+2025-09-12,Crew D - Controls,49036.75
+2025-09-19,Crew A - Commercial,86396.9
+2025-09-19,Crew B - Tenant Improvement,79356.67
+2025-09-19,Crew C - Service,57434.57
+2025-09-19,Crew D - Controls,47840.21
+2025-09-26,Crew A - Commercial,93858.76
+2025-09-26,Crew B - Tenant Improvement,71471.87
+2025-09-26,Crew C - Service,51115.89
+2025-09-26,Crew D - Controls,50029.06
+2025-10-03,Crew A - Commercial,85262.17
+2025-10-03,Crew B - Tenant Improvement,77038.05
+2025-10-03,Crew C - Service,53974.69
+2025-10-03,Crew D - Controls,45279.63
+2025-10-10,Crew A - Commercial,91579.61
+2025-10-10,Crew B - Tenant Improvement,78935.82
+2025-10-10,Crew C - Service,50934.56
+2025-10-10,Crew D - Controls,46155.05
+2025-10-17,Crew A - Commercial,92232.23
+2025-10-17,Crew B - Tenant Improvement,81012.73
+2025-10-17,Crew C - Service,57197.58
+2025-10-17,Crew D - Controls,48014.3
+2025-10-24,Crew A - Commercial,86132.93
+2025-10-24,Crew B - Tenant Improvement,75334.26
+2025-10-24,Crew C - Service,51204.0
+2025-10-24,Crew D - Controls,47969.19
+2025-10-31,Crew A - Commercial,84210.9
+2025-10-31,Crew B - Tenant Improvement,71889.31
+2025-10-31,Crew C - Service,52968.58
+2025-10-31,Crew D - Controls,44651.02
+2025-11-07,Crew A - Commercial,87582.59
+2025-11-07,Crew B - Tenant Improvement,78385.02
+2025-11-07,Crew C - Service,55308.15
+2025-11-07,Crew D - Controls,51649.99
+2025-11-14,Crew A - Commercial,93431.99
+2025-11-14,Crew B - Tenant Improvement,77626.42
+2025-11-14,Crew C - Service,57435.46
+2025-11-14,Crew D - Controls,47573.35
+2025-11-21,Crew A - Commercial,92208.15
+2025-11-21,Crew B - Tenant Improvement,73379.27
+2025-11-21,Crew C - Service,54230.71
+2025-11-21,Crew D - Controls,51685.39
+2025-11-28,Crew A - Commercial,89391.1
+2025-11-28,Crew B - Tenant Improvement,76082.58
+2025-11-28,Crew C - Service,56482.34
+2025-11-28,Crew D - Controls,46558.9
+2025-12-05,Crew A - Commercial,92661.1
+2025-12-05,Crew B - Tenant Improvement,70145.52
+2025-12-05,Crew C - Service,51738.53
+2025-12-05,Crew D - Controls,45521.26
+2025-12-12,Crew A - Commercial,84583.49
+2025-12-12,Crew B - Tenant Improvement,81417.66
+2025-12-12,Crew C - Service,49886.45
+2025-12-12,Crew D - Controls,46454.36
+2025-12-19,Crew A - Commercial,89047.42
+2025-12-19,Crew B - Tenant Improvement,78469.57
+2025-12-19,Crew C - Service,56365.49
+2025-12-19,Crew D - Controls,47103.64
+2025-12-26,Crew A - Commercial,84060.05
+2025-12-26,Crew B - Tenant Improvement,80284.61
+2025-12-26,Crew C - Service,50734.88
+2025-12-26,Crew D - Controls,44659.37
+2026-01-02,Crew A - Commercial,84220.64
+2026-01-02,Crew B - Tenant Improvement,75909.86
+2026-01-02,Crew C - Service,57820.25
+2026-01-02,Crew D - Controls,49757.58
+2026-01-09,Crew A - Commercial,88900.73
+2026-01-09,Crew B - Tenant Improvement,76258.02
+2026-01-09,Crew C - Service,55671.13
+2026-01-09,Crew D - Controls,48971.26
+2026-01-16,Crew A - Commercial,85695.26
+2026-01-16,Crew B - Tenant Improvement,71047.6
+2026-01-16,Crew C - Service,51415.97
+2026-01-16,Crew D - Controls,50171.2
+2026-01-23,Crew A - Commercial,89893.1
+2026-01-23,Crew B - Tenant Improvement,79613.68
+2026-01-23,Crew C - Service,50064.4
+2026-01-23,Crew D - Controls,51078.3
+2026-01-30,Crew A - Commercial,86342.1
+2026-01-30,Crew B - Tenant Improvement,81182.2
+2026-01-30,Crew C - Service,54816.64
+2026-01-30,Crew D - Controls,48363.36
+2026-02-06,Crew A - Commercial,92478.53
+2026-02-06,Crew B - Tenant Improvement,77525.25
+2026-02-06,Crew C - Service,55508.3
+2026-02-06,Crew D - Controls,45370.38
+2026-02-13,Crew A - Commercial,89470.75
+2026-02-13,Crew B - Tenant Improvement,74255.03
+2026-02-13,Crew C - Service,50333.08
+2026-02-13,Crew D - Controls,45182.91
+2026-02-20,Crew A - Commercial,87715.57
+2026-02-20,Crew B - Tenant Improvement,73112.06
+2026-02-20,Crew C - Service,56292.39
+2026-02-20,Crew D - Controls,45100.02
+2026-02-27,Crew A - Commercial,81154.57
+2026-02-27,Crew B - Tenant Improvement,82043.27
+2026-02-27,Crew C - Service,52384.08
+2026-02-27,Crew D - Controls,48075.19
+2026-03-06,Crew A - Commercial,83917.46
+2026-03-06,Crew B - Tenant Improvement,72458.99
+2026-03-06,Crew C - Service,53155.9
+2026-03-06,Crew D - Controls,50225.66
+2026-03-13,Crew A - Commercial,81509.15
+2026-03-13,Crew B - Tenant Improvement,80101.62
+2026-03-13,Crew C - Service,58235.91
+2026-03-13,Crew D - Controls,48454.37
+2026-03-20,Crew A - Commercial,86028.96
+2026-03-20,Crew B - Tenant Improvement,72764.66
+2026-03-20,Crew C - Service,51260.7
+2026-03-20,Crew D - Controls,46643.22
+2026-03-27,Crew A - Commercial,92951.33
+2026-03-27,Crew B - Tenant Improvement,69959.59
+2026-03-27,Crew C - Service,56470.86
+2026-03-27,Crew D - Controls,49285.87
+2026-04-03,Crew A - Commercial,81227.75
+2026-04-03,Crew B - Tenant Improvement,70765.7
+2026-04-03,Crew C - Service,56030.94
+2026-04-03,Crew D - Controls,49329.95
+2026-04-10,Crew A - Commercial,85373.98
+2026-04-10,Crew B - Tenant Improvement,80393.29
+2026-04-10,Crew C - Service,51495.76
+2026-04-10,Crew D - Controls,47438.66
+2026-04-17,Crew A - Commercial,82579.26
+2026-04-17,Crew B - Tenant Improvement,77771.64
+2026-04-17,Crew C - Service,50431.88
+2026-04-17,Crew D - Controls,45538.42
+2026-04-24,Crew A - Commercial,91750.21
+2026-04-24,Crew B - Tenant Improvement,76002.9
+2026-04-24,Crew C - Service,55398.54
+2026-04-24,Crew D - Controls,49796.76
+2026-05-01,Crew A - Commercial,89500.24
+2026-05-01,Crew B - Tenant Improvement,72324.76
+2026-05-01,Crew C - Service,55714.99
+2026-05-01,Crew D - Controls,45050.4
+2026-05-08,Crew A - Commercial,84758.96
+2026-05-08,Crew B - Tenant Improvement,75369.35
+2026-05-08,Crew C - Service,50668.77
+2026-05-08,Crew D - Controls,44974.01
+2026-05-15,Crew A - Commercial,90143.96
+2026-05-15,Crew B - Tenant Improvement,78942.2
+2026-05-15,Crew C - Service,52882.77
+2026-05-15,Crew D - Controls,47154.08
+2026-05-22,Crew A - Commercial,83883.02
+2026-05-22,Crew B - Tenant Improvement,76262.99
+2026-05-22,Crew C - Service,54694.38
+2026-05-22,Crew D - Controls,51330.1
+2026-05-29,Crew A - Commercial,81531.37
+2026-05-29,Crew B - Tenant Improvement,80970.1
+2026-05-29,Crew C - Service,58239.2
+2026-05-29,Crew D - Controls,46819.46
+2026-06-05,Crew A - Commercial,91179.38
+2026-06-05,Crew B - Tenant Improvement,79950.11
+2026-06-05,Crew C - Service,55305.73
+2026-06-05,Crew D - Controls,46378.79
+2026-06-12,Crew A - Commercial,89730.53
+2026-06-12,Crew B - Tenant Improvement,80583.21
+2026-06-12,Crew C - Service,50604.89
+2026-06-12,Crew D - Controls,47846.19
+2026-06-19,Crew A - Commercial,81278.85
+2026-06-19,Crew B - Tenant Improvement,80194.72
+2026-06-19,Crew C - Service,56406.15
+2026-06-19,Crew D - Controls,44513.54
